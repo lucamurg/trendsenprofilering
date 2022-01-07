@@ -1,0 +1,20 @@
+body {background-color: #D3DEDC;
+}
+
+hr {
+border-color: grey;
+border-style: none;
+border-top-style: dotted;
+border-width: 3px;
+width: 10%;
+}
+
+img {max-height: 150px;
+  max-width: 200px;
+  width: 120px;
+height: 120px;
+}
+
+H1 {color: #7C99AC}
+
+H3 {color: #FFEFEF}
